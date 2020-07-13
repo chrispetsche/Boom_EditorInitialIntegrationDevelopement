@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d45f4484d98d23b4c85e6dc1e96a3872, type: 3}
+  m_Name: Dishwasher1
+  m_EditorClassIdentifier: 
+  Cap: {fileID: 0}
+  Middle: {fileID: 0}
+  BlocksCutsTop: 0
+  BlockCutsBottom: 1
+  Offset: 1
+  BoundingBox: {fileID: 1446170181002901960, guid: 422761bb8a252494a8da721aee6f3199,
+    type: 3}
+  VaildBoundingBoxMaterial: {fileID: 2100000, guid: 878b4988fa1b4e34eb822d8322ab84cc,
+    type: 2}
+  InvaildBoundingBoxMaterial: {fileID: 2100000, guid: 1d8ef001e0ddcca448b9028d63327a2a,
+    type: 2}
+  BoundingSize:
+    x: 1.4076048
+    y: 1.1374338
+  HeightOffset: 0
+  StartOffset: 0.5687169
+  WidthInMeters: 0.9144
+  ZoffsetinMeters: 0

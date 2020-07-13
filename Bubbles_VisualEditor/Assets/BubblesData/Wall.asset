@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52e92fa19bb92f14f93e78fdd01983da, type: 3}
+  m_Name: Wall
+  m_EditorClassIdentifier: 
+  mesh: {fileID: 8733429697405204941, guid: e3a6bb17b57af424f8e717982d01863d, type: 3}
+  material: {fileID: 2100000, guid: d1899518a1ceafb4ea676938c83e1e50, type: 2}
+  MeshLength: 0.0254
+  StartPoint: 0.0127

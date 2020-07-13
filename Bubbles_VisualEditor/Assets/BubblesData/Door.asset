@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d45f4484d98d23b4c85e6dc1e96a3872, type: 3}
+  m_Name: Door
+  m_EditorClassIdentifier: 
+  mesh: {fileID: -4411757229940928489, guid: 13b58f4c73c44cd42a0cc63d6b66dc17, type: 3}
+  material: {fileID: 2100000, guid: d1899518a1ceafb4ea676938c83e1e50, type: 2}
+  MeshLength: 0.387096
+  StartPoint: 0.193548
+  BlocksTop: 1
+  BlockBottom: 1
+  BoundingBox: {fileID: -4411757229940928489, guid: 13b58f4c73c44cd42a0cc63d6b66dc17,
+    type: 3}
+  VaildBoundingBoxMaterial: {fileID: 2100000, guid: 878b4988fa1b4e34eb822d8322ab84cc,
+    type: 2}
+  InvaildBoundingBoxMaterial: {fileID: 2100000, guid: 1d8ef001e0ddcca448b9028d63327a2a,
+    type: 2}
+  WidthInMeters: 0.9144

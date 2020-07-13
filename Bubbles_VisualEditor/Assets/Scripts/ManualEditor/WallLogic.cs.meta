@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: ad13a9f67e3f4db4882b8486712e4fd9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WallMesh: {fileID: 11400000, guid: 134d0fbfb56ba1443a51f6ae89052f89, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
